@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Applejack",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/f/f9/My_little_ponyes_applejack36.png/revision/latest?cb=20151028051903",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Cutie Mark Crusaders",
+      "image": "https://pre00.deviantart.net/6195/th/pre/i/2013/031/f/4/excited_cutie_mark_crusaders_by_thatguy1945-d5t31vw.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Fluttershy",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/9/9d/Fluttershy-Render-A224677645.png/revision/latest?cb=20160213043331",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Pinkie Pie",
+      "image": "https://i.pinimg.com/originals/70/2c/3f/702c3fe60308caf547c99b8dbde056e4.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Princess Cadence",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/7/74/Princess_Cadance_Vector.png/revision/latest?cb=20161122231954&path-prefix=protagonist",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Princess Celestia",
+      "image": "https://vignette.wikia.nocookie.net/loveinterest/images/c/cc/Princess_celestia.png/revision/latest?cb=20150302154625",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Princess Luna",
+      "image": "https://vignette.wikia.nocookie.net/deathbattlefanon/images/1/13/Luna.png/revision/latest?cb=20160529150010",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Rainbow Dash",
+      "image": "https://vignette.wikia.nocookie.net/mlpfanart/images/8/8e/Rainbow_Dash_by_Nethear.png/revision/latest?cb=20120530035934",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Rarity",
+      "image": "https://i.pinimg.com/originals/cf/7d/9a/cf7d9a415a6853acc51e18da371f2d78.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Spike",
+      "image": "https://vignette.wikia.nocookie.net/international-entertainment-project/images/7/77/Spike_%28My_Little_Pony_Friendship_Is_Magic%29.png/revision/latest?cb=20160502191351",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Starlight Glimmer",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/b/b8/Starlight_Glimmer_2.png/revision/latest?cb=20161004181957&path-prefix=protagonist",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Twilight Sparkles",
+      "image": "https://2.bp.blogspot.com/-7TaekSmGsQQ/V53wINteLOI/AAAAAAACoOs/EHt9avzfx8cQ-9LFLLDt82y9tumsH797ACLcB/s1600/Twilight_Sparkle.png",
+      "count": 0
+    }
+  ]
